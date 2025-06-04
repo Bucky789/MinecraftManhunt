@@ -1,0 +1,7 @@
+name: Manhunt
+version: 1.0
+main: com.manhunt.Manhunt
+api-version: 1.16
+commands:
+  startmanhunt:
+    description: Start the Manhunt game
