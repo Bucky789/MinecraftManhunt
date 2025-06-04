@@ -9,7 +9,7 @@ A custom Minecraft plugin that brings Dream-style Manhunt gameplay to your local
 📍 /startmanhunt command to start the game with online players
 ♻️ Resets player gamemodes and teleports everyone to the starter
 
-📦 Requirements
+📦 Requirements:
 1)Minecraft version: 1.16.1
 2)Server type: Spigot
 3)Java version: Java 8+
@@ -22,7 +22,7 @@ A custom Minecraft plugin that brings Dream-style Manhunt gameplay to your local
 4)Place the jar into your Spigot server’s /plugins folder
 5)Run the server and use /startmanhunt to play!
 
-⚙️ Commands
+⚙️ Commands:
 Command	Description
 /startmanhunt	Randomly assigns roles and begins the game
 
